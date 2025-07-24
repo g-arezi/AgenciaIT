@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#D4FF00"/>
+  
+  <!-- Logo IT with lightbulb and arrow -->
+  <g transform="translate(40, 40)">
+    <!-- Lightbulb outline -->
+    <path d="M20 30 C20 20, 30 10, 40 10 C50 10, 60 20, 60 30 C60 35, 58 40, 55 43 L55 50 L25 50 L25 43 C22 40, 20 35, 20 30 Z" 
+          fill="none" stroke="#000" stroke-width="3"/>
+    <!-- Lightbulb lines -->
+    <line x1="30" y1="45" x2="50" y2="45" stroke="#000" stroke-width="2"/>
+    <line x1="32" y1="48" x2="48" y2="48" stroke="#000" stroke-width="2"/>
+    
+    <!-- Letter "i" -->
+    <circle cx="75" cy="20" r="3" fill="#000"/>
+    <rect x="72" y="30" width="6" height="40" fill="#000"/>
+    
+    <!-- Letter "t" -->
+    <rect x="85" y="25" width="6" height="45" fill="#000"/>
+    <rect x="80" y="30" width="16" height="6" fill="#000"/>
+    
+    <!-- Arrow pointing right -->
+    <path d="M110 40 L125 40 L120 35 M125 40 L120 45" 
+          fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- "mikla" text (smaller) -->
+    <text x="95" y="85" font-family="Arial, sans-serif" font-size="8" fill="#000" font-weight="bold">mikla</text>
+    
+    <!-- Registered trademark -->
+    <circle cx="125" cy="15" r="8" fill="none" stroke="#000" stroke-width="1.5"/>
+    <text x="121" y="19" font-family="Arial, sans-serif" font-size="10" fill="#000" font-weight="bold">®</text>
+  </g>
+</svg>

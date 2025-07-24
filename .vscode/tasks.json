@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Live Server - IT Soluções Digitais",
+			"type": "shell",
+			"command": "echo",
+			"args": [
+				"Projeto criado com sucesso! Use a extensão Live Server para visualizar o site."
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
