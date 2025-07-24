@@ -1,6 +1,11 @@
 # IT Soluções Digitais - Website Portfólio
 
-Um website moderno e responsivo para empresa de soluções digitais, desenvolvido com HTML5, CSS3 e JavaScript vanilla, baseado no template Fluxco da KitPro.
+Um website moderno e responsivo para empresa de soluções digitais, desenvolvido com HTML5, CSS3 e JavaScript vanilla, baseado no template F## 👨‍💻 Desenvolvedor
+
+**Gabriel Arezi**
+- 🌐 Portfólio: [bit.ly/Gabriel-Arezi](https://bit.ly/Gabriel-Arezi)
+- 💼 GitHub: [@g-arezi](https://github.com/g-arezi)
+- 📧 Email: contato.gsaa@outlook.comda KitPro.
 
 ## 🚀 Sobre o Projeto
 
@@ -183,7 +188,14 @@ Edite as variáveis CSS em `assets/css/style.css`:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👥 Contribuição
+## �‍💻 Desenvolvedor
+
+**Gabriel Arezi**
+- 🌐 Portfólio: [gabriel-arezi.dev](https://gabriel-arezi.dev)
+- 💼 GitHub: [@g-arezi](https://github.com/g-arezi)
+- 📧 Email: contato@gabriel-arezi.dev
+
+## �👥 Contribuição
 
 1. Faça um fork do projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
@@ -201,4 +213,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-⭐ Desenvolvido com ❤️ para transformar empresas digitalmente
+⭐ **Desenvolvido por [Gabriel Arezi](https://bit.ly/Gabriel-Arezi) | [@g-arezi](https://github.com/g-arezi)**
+
+💼 Transformando ideias em realidade digital ❤️

@@ -1,3 +1,16 @@
+/*
+    IT Soluções Digitais - Estilos Principais
+    
+    Desenvolvido por: Gabriel Arezi
+    Portfolio: https://bit.ly/Gabriel-Arezi
+    GitHub: https://github.com/g-arezi
+    
+    CSS3 moderno com variáveis customizadas, Grid, Flexbox
+    Design responsivo mobile-first
+    
+    Copyright (c) 2025 Gabriel Arezi
+*/
+
 /* ===== GLOBAL STYLES ===== */
 :root {
     /* Colors */
@@ -1321,6 +1334,31 @@ a {
 
 .footer-bottom-links a:hover {
     color: var(--primary-color);
+}
+
+.footer-credits {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.footer-credits p {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 0.875rem;
+    margin: 0;
+}
+
+.footer-credits a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: var(--font-weight-medium);
+    transition: var(--transition-normal);
+}
+
+.footer-credits a:hover {
+    color: var(--primary-light);
+    text-decoration: underline;
 }
 
 /* ===== BACK TO TOP ===== */

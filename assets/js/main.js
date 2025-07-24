@@ -1,3 +1,20 @@
+/*
+    IT Soluções Digitais - JavaScript Principal
+    
+    Desenvolvido por: Gabriel Arezi
+    Portfolio: https://bit.ly/Gabriel-Arezi
+    GitHub: https://github.com/g-arezi
+    
+    JavaScript ES6+ modular com funcionalidades:
+    - Navegação suave
+    - Menu responsivo
+    - Filtros de portfolio
+    - Formulários interativos
+    - Animações e performance otimizada
+    
+    Copyright (c) 2025 Gabriel Arezi
+*/
+
 // ===== MAIN JAVASCRIPT FILE =====
 
 // Wait for DOM to be fully loaded

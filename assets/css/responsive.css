@@ -1,3 +1,16 @@
+/*
+    IT Soluções Digitais - Estilos Responsivos
+    
+    Desenvolvido por: Gabriel Arezi
+    Portfolio: https://bit.ly/Gabriel-Arezi
+    GitHub: https://github.com/g-arezi
+    
+    Media queries para design responsivo
+    Mobile-first approach
+    
+    Copyright (c) 2025 Gabriel Arezi
+*/
+
 /* ===== RESPONSIVE STYLES ===== */
 
 /* Extra Small Devices (Phones, less than 576px) */
@@ -482,6 +495,16 @@
     
     .newsletter-form button {
         padding: 0.875rem;
+    }
+    
+    .footer-credits {
+        padding-top: 0.75rem;
+        margin-top: 0.75rem;
+    }
+    
+    .footer-credits p {
+        font-size: 0.8rem;
+        line-height: 1.4;
     }
 }
 
